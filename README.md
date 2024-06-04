@@ -1,5 +1,5 @@
 # latest-datasette-with-all-plugins
-
+test
 Demo of latest Datasette with the latest version of every plugin
 
 This repository deploys a demo of the latest `main` branch of Datasette plus every plugin listed in [plugins.txt](plugins.txt) once per day.
